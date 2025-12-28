@@ -70,7 +70,7 @@ const experience = [
     desc: "Provided exceptional customer service and collaborated with team members to improve workflow efficiency. Gained hands-on experience in complex mechanical diagnosis.",
   },
   {
-    role: "Assistant Butcher",
+    role: "Butcher",
     company: "Local Butcher",
     period: "2019 - 2021",
     desc: "Maintained strict cleanliness standards and health regulations. Managed inventory and storage conditions while delivering high-quality service.",
